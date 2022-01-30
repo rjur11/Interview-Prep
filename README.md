@@ -1,6 +1,8 @@
 # Interview-Prep
 Gearing up for interviews? This repository aims to hold all the resources needed to crush your next interview! 
 
+At the time of creating this guide, I am a current student in the Front End program at the Turing School of Software and Design. In an effort to prepare for my first software job search, I've decided to make one giant resource for myself to get ready. 
+
 While this resource will constantly be expanding over the next couple of months, feel free to fork it and use it for your own upcoming interview prep. 
 
 
