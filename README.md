@@ -96,6 +96,8 @@ Since I'm currently enrolled in a front-end program, I'll have a section dedicat
 5. Why is Sass useful?
 6. How does Sass get rendered to a webpage?
 
+## React
+
 ## Technical Challenges
 
 ## Coding Challenge Resources
@@ -114,6 +116,8 @@ There are plenty of coding challenge resources on the web that will help you wor
 [Cassidoo's Getting a Gig Guide](https://github.com/cassidoo/getting-a-gig)
 
 ## Created By
+
+🐸[Rana Jurjus](https://github.com/rjur11)
 
 ## Resources
 Cracking the Coding Interview - 189 Programming Questions and Solutions by Gayle Laakmann McDowell
