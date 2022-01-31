@@ -124,6 +124,8 @@ There are plenty of coding challenge resources on the web that will help you wor
 ## Resources
 Cracking the Coding Interview - 189 Programming Questions and Solutions by Gayle Laakmann McDowell
 
+[Cassidy Williams Newsletter Interview Question Archives](https://buttondown.email/cassidoo/archive)
+
 [8 Junior Developer Interview Questions to Practice](https://www.codecademy.com/resources/blog/junior-software-developer-interview-questions/)
 
 [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
