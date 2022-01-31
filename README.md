@@ -132,6 +132,7 @@ Big O describes the performance or time complexity of a program (that is, the ex
 ## Helpful Guides and Books
 
 [Cassidoo's Getting a Gig Guide](https://github.com/cassidoo/getting-a-gig)
+
 Cracking the Coding Interview - 189 Programming Questions and Solutions by Gayle Laakmann McDowell
 
 
