@@ -145,3 +145,5 @@ Cracking the Coding Interview - 189 Programming Questions and Solutions by Gayle
 [Front-end Developer Interview Questions and Answers](https://www.g2i.co/blog/2021-front-end-developer-interview-questions-and-answers)
 
 [HTML Interview Questions](https://www.interviewbit.com/html-interview-questions/)
+
+[Turing FE Interview Questions](https://mod4.turing.edu/lessons/technical-interview-questions.html)
