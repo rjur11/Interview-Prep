@@ -18,6 +18,7 @@ While this resource will constantly be expanding over the next couple of months,
 - [Future Goals](#future-goals)
 - [Helpful Guides and Books](#helpful-guides-and-books)
 - [Created By](#created-by)
+- [Resources](#resources)
 
 ## Behavioral Questions
 Many companies want to get to know YOU. Make sure that your answers reflect who you are as a person. If you are a career changer, sometimes it can help to share why you've made the switch to this new industry! 
