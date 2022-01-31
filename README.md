@@ -47,6 +47,12 @@ Many companies want to get to know YOU. Make sure that your answers reflect who 
 19. *Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation?*
 20. *Describe a situation where you had to work in a team that didn’t get on very well. What happened? What did you do and what role did you take? How did the situation evolve?*
 21. *Describe a situation when you worked effectively under pressure*
+22. *Tell me how you solve a problem*
+23. *What is your approach to working on a team?*
+24. *What is something that your hobbies or interests tell me about you that your resume cannot?*
+25. *Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?*
+26. *Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it*
+27. *Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?*
 
 
 ## Technical Questions
@@ -116,6 +122,10 @@ There are plenty of coding challenge resources on the web that will help you wor
 ## Algorithm Resources
 
 ## BigO Resources
+Big O describes the performance or time complexity of a program (that is, the execution time required or space used to run your algorithm). Many technical questions will be bound by a certain limitations in regards to how quickly or efficiently your solution needs to run. 
+
+- [Turing Big O Lesson](https://mod4.turing.edu/lessons/cs/big-o.html)
+- [Turing Big O Part 2](https://mod4.turing.edu/lessons/cs/big-o-part-ii.html)
 
 ## Future Goals
 
@@ -146,4 +156,6 @@ Cracking the Coding Interview - 189 Programming Questions and Solutions by Gayle
 
 [HTML Interview Questions](https://www.interviewbit.com/html-interview-questions/)
 
-[Turing FE Interview Questions](https://mod4.turing.edu/lessons/technical-interview-questions.html)
+[Turing FE/BE Interview Questions](https://mod4.turing.edu/lessons/technical-interview-questions.html)
+
+[Turing Behavioral Interview Questions](https://mod4.turing.edu/lessons/behavioral-interview-questions.html)
