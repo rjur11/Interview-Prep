@@ -106,6 +106,11 @@ Since I'm currently enrolled in a front-end program, I'll have a section dedicat
 ## Coding Challenge Resources
 There are plenty of coding challenge resources on the web that will help you work through problems that you might see in a technical interview challenge. Here are just a few!
 
+- [Leetcode](https://leetcode.com/)
+  - Many interviews will have "leetcode-esque" type questions". It could be helpful to get used to seeing problems written out in this structure.
+- [Codwars](https://codewars.com/)
+- [Codesignal](https://codesignal.com/developers/interview-practice/)
+  - Similar to leetcode in structure, practice tests refresh every 24 hours. There is also an arcade mode where you can test your skills.
 
 
 ## Algorithm Resources
