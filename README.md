@@ -3,7 +3,7 @@ Gearing up for interviews? This repository aims to hold all the resources needed
 
 At the time of creating this guide, I am a current student in the Front End program at the Turing School of Software and Design. In an effort to prepare for my first software job search, I've decided to make one giant resource for myself to get ready. 
 
-While this resource will constantly be expanding over the next couple of months, feel free to fork it and use it for your own upcoming interview prep. 
+While this resource will constantly be expanding over the next couple of months, feel free to fork it and use it for your own upcoming interview prep, or Click ⭐ if you like the project!
 
 
 
@@ -57,6 +57,12 @@ Many companies want to get to know YOU. Make sure that your answers reflect who 
 
 ## Technical Questions
 
+1. How do you organize your workflow to complete web development projects?
+2. What makes Git advantageous in web development applications?
+3. Tell me about (framework on your resume). Describe it to me like I am a new developer and I am interested in learning more about the technology.
+4. What is the importance of testing your code? Why do you value testing your code?
+5. Tell me about JSON format
+
 ## Front-End Specific Questions
 Since I'm currently enrolled in a front-end program, I'll have a section dedicated to front-end specific technical questions. If you want to see more general technical questions, check out the Technical Questions section of the guide.
 
@@ -72,6 +78,7 @@ Since I'm currently enrolled in a front-end program, I'll have a section dedicat
 8. What resources do you use to learn about the latest in front end development and design?
 9. Why is testing important? What is TDD?
 10. What is a bundler?
+11. Tell me about the HTTP request methods
 
 ### JavaScript
 
@@ -105,9 +112,25 @@ Since I'm currently enrolled in a front-end program, I'll have a section dedicat
 5. Why is Sass useful?
 6. How does Sass get rendered to a webpage?
 
-## React
+### React
+
+1. What is React?
+2. Why would you use React over vanilla JS/HTML/CSS?
+3. What is JSX?
+4. What is a component? Tell me about the different types of components. When would you use one over the other?
+5. What is State?
+6. What are props?
+7. Why should we not update state directly?
+8. How do we bind methods or event handlers in JSX callbacks?
+9. What is the Virtual DOM?
+10. What does "Data down, action up" mean?
+11. What is a fragment?
+
 
 ## Technical Challenges
+Here are some short, simple technical challenges to get started. Once you feel comfortable solving these, consider moving onto some of the resources below.
+
+1. 
 
 ## Coding Challenge Resources
 There are plenty of coding challenge resources on the web that will help you work through problems that you might see in a technical interview challenge. Here are just a few!
@@ -117,9 +140,19 @@ There are plenty of coding challenge resources on the web that will help you wor
 - [Codewars](https://codewars.com/)
 - [Codesignal](https://codesignal.com/developers/interview-practice/)
   - Similar to leetcode in structure, practice tests refresh every 24 hours. There is also an arcade mode where you can test your skills.
+- [Problem Solving Techniques for Programming Problems and Interviews](https://www.youtube.com/watch?v=r4TgqWbKRtA&ab_channel=TechWithTim)
+- [Project Euler](https://projecteuler.net/) -These can be quite mathy, but the first few 10 or so problems will be helpful if you can recognize the patterns
+- [Advent of Code](https://adventofcode.com/2021) - The first couple days of problems are really good practice and should be manageable to solve (you can look at previous year's problems too)
+- [CodingJS](https://the-winter.github.io/codingjs/) -Pretty straightforward problems that are broken down into data types, really helpful!
 
 
 ## Algorithm Resources
+Having an understanding of algorithms and data structures could make your interviewing process much easier, and will help you in the long run during your programming career. Often programming challenges will be based upon a simple algorithm, and being able to recognize which algorithm can be used will save you time during your interview. 
+
+- [Javascript Algorithms and Data Structures Repo](https://github.com/trekhleb/javascript-algorithms)
+- [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) - You will need to scroll down to find this section.
+- [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
+
 
 ## BigO Resources
 Big O describes the performance or time complexity of a program (that is, the execution time required or space used to run your algorithm). Many technical questions will be bound by a certain limitations in regards to how quickly or efficiently your solution needs to run. 
@@ -162,3 +195,7 @@ Cracking the Coding Interview - 189 Programming Questions and Solutions by Gayle
 [Turing FE/BE Interview Questions](https://mod4.turing.edu/lessons/technical-interview-questions.html)
 
 [Turing Behavioral Interview Questions](https://mod4.turing.edu/lessons/behavioral-interview-questions.html)
+
+[47 Questions I've Been Asked in Junior Developer Interviews](https://sarahsakordaniels.medium.com/47-questions-ive-been-asked-in-junior-software-developer-interviews-a7154abb43b0)
+
+[ReactJS Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
