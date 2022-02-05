@@ -52,6 +52,7 @@ Many companies want to get to know YOU. Make sure that your answers reflect who 
 25. *Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?*
 26. *Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it*
 27. *Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?*
+28. *Imagine you're tasked with organizing a team bonding offsite activity. Some teammates have expressed concerns about the selected activity not being inclusive enough. What kind of actions can you take to ensure that every member of the team feels included, and how can you follow up with your teammates who have expressed concerns?*
 
 
 ## Technical Questions
@@ -144,6 +145,11 @@ There are plenty of coding challenge resources on the web that will help you wor
 - [Codewars](https://codewars.com/)
 - [Codesignal](https://codesignal.com/developers/interview-practice/)
   - Similar to leetcode in structure, practice tests refresh every 24 hours. There is also an arcade mode where you can test your skills.
+-[Codeforces](https://codeforces.com/contests)
+  - Div 2 and Div 3 questions A,B should be reasonable (under contests => contest history)
+  - Requires command line processing
+-[Kattis, Kattis](https://open.kattis.com/)
+  - Requires command line processing
 - [Problem Solving Techniques for Programming Problems and Interviews](https://www.youtube.com/watch?v=r4TgqWbKRtA&ab_channel=TechWithTim)
 - [Project Euler](https://projecteuler.net/) -These can be quite mathy, but the first few 10 or so problems will be helpful if you can recognize the patterns
 - [Advent of Code](https://adventofcode.com/2021) - The first couple days of problems are really good practice and should be manageable to solve (you can look at previous year's problems too)
