@@ -23,11 +23,10 @@ While this resource will constantly be expanding over the next couple of months,
 ## Behavioral Questions
 Many companies want to get to know YOU. Make sure that your answers reflect who you are as a person. If you are a career changer, sometimes it can help to share why you've made the switch to this new industry! 
 
-1. *What are your weaknesses? What are your strengths?*
-  - For both of these, make sure to highlight how you work to overcome your weakness, or how your strength can play a part in the organization!
-
-2. *Tell me about yourself*
+1. *Tell me about yourself*
   - This'll be your elevator pitch! 
+2. *What are your weaknesses? What are your strengths?*
+  - For both of these, make sure to highlight how you work to overcome your weakness, or how your strength can play a part in the organization!
 3. *Why do you want to be a software developer?*
 4. *Tell me about a challenging interaction with a teammate*
 5. *Tell me about a project you've completed that you're proud of*
@@ -58,10 +57,11 @@ Many companies want to get to know YOU. Make sure that your answers reflect who 
 ## Technical Questions
 
 1. How do you organize your workflow to complete web development projects?
-2. What makes Git advantageous in web development applications?
+2. What makes Git advantageous (or any version control alternative )in web development applications?
 3. Tell me about (framework on your resume). Describe it to me like I am a new developer and I am interested in learning more about the technology.
 4. What is the importance of testing your code? Why do you value testing your code?
 5. Tell me about JSON format
+6. What is an API call? Why would we want to use an API?
 
 ## Front-End Specific Questions
 Since I'm currently enrolled in a front-end program, I'll have a section dedicated to front-end specific technical questions. If you want to see more general technical questions, check out the Technical Questions section of the guide.
@@ -128,9 +128,13 @@ Since I'm currently enrolled in a front-end program, I'll have a section dedicat
 
 
 ## Technical Challenges
-Here are some short, simple technical challenges to get started. Once you feel comfortable solving these, consider moving onto some of the resources below.
+Here are some short, simple technical challenges to get started. Consider talking through how you would approach these problems, and then try them for yourself in your console (you'll need to write test cases).
 
-1. 
+1. *Is Unique* Implement an algorithm to determine if a string has all unique characters. 
+2. *URLify* Write a method to replace all spaces in a string with "%20". 
+3. *Is Prime* Write a method to determine if an int `n` is a Prime number.
+4. There are `n` kids with candies. You are given an integer array candies, where each `candies[i]` represents the number of candies the `ith` kid has, and an integer `extraCandies`, denoting the number of extra candies that you have. Return a boolean array result of length `n`, where `result[i]` is true if, after giving the `ith` kid all the `extraCandies`, they will have the greatest number of candies among all the kids, or false otherwise.
+5. Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You can return the answer in any order.
 
 ## Coding Challenge Resources
 There are plenty of coding challenge resources on the web that will help you work through problems that you might see in a technical interview challenge. Here are just a few!
@@ -161,6 +165,8 @@ Big O describes the performance or time complexity of a program (that is, the ex
 - [Turing Big O Part 2](https://mod4.turing.edu/lessons/cs/big-o-part-ii.html)
 
 ## Future Goals
+Coming soon...
+
 
 ## Helpful Guides and Books
 
